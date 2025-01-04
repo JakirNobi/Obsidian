@@ -32,5 +32,9 @@ Tags:[[CPU Scheduling]],,[[Scheduling Algorithms]],[[Operating systems]]
 - Chances of starvation decreases
 Thus, smaller value of time quantum is better in terms of response time.
 
-##### 
+##### With increasing value of time quantum,
+- Number of context switch decreases
+- Response time increases
+- Chances of starvation increases
+Thus, higher value of time quantum is better in terms of number of context switch.
 # References
