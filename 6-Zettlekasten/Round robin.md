@@ -38,4 +38,8 @@ Thus, smaller value of time quantum is better in terms of response time.
 - Chances of starvation increases
 Thus, higher value of time quantum is better in terms of number of context switch.
 
+#### Example
+
+![[Pasted image 20250104125939.png]]
+
 # References
