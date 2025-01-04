@@ -20,4 +20,6 @@ for example, could run unless the queues for system processes, interactive proce
 interactive editing processes were all empty. If an interactive editing process entered the ready
 queue while a batch process was running, the batch process will be preempted.
 
+![[Pasted image 20250104134502.png]]
+
 # References
