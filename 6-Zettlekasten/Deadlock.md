@@ -12,5 +12,9 @@ holding a resource and waiting for another resource acquired by some other proce
 
 ![[Pasted image 20250104135136.png]]
 
+### Deadlock in OS
+
+![[Pasted image 20250104135349.png]]
+
 
 # References
