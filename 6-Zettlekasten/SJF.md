@@ -24,5 +24,9 @@ Tags:[[Scheduling Algorithms]],[[CPU Scheduling]],[[Operating systems]]
 - Priorities can not be set for the processes.
 - Processes with larger burst time have poor response time.
 
+#### Example
+
+![[Pasted image 20250104123937.png]] 
 
 # References
+
