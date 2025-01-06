@@ -2,7 +2,7 @@
 
 Status:
 
-Tags:[[Computer Architecture]],[[Fixed Arithmetic for Computers & ALU Design]],[[Multiplication]] 
+Tags:[[Computer Architecture]],[[Fixed Arithmetic for Computers & ALU Design]],[[Multiplication in Computer]] 
 
 # Multiplication second method
 ### Flowchart
