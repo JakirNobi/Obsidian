@@ -1,0 +1,19 @@
+2025-01-06 21:04
+
+Status:
+
+Tags:[[Computer Architecture]],[[Fixed Arithmetic for Computers & ALU Design]],[[Multiplication]] 
+
+# Multiplication second method
+### Flowchart
+
+![[Multiplication second method.png]]
+
+### Example
+
+![[Multiplication second method-1.png]]
+
+
+# References
+
+[Online PDF](http://contents2.kocw.or.kr/KOCW/document/2013/soongsil/kimbyounggi1031/7.pdf)  
