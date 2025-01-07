@@ -1,6 +1,6 @@
 2025-01-07 21:19
 
-Status:
+Status: #active
 
 Tags:[[Datapath Elements]],[[Basic Implementation of Datapath]],[[The Processor->Datapath and Control]],[[Computer Architecture]] 
 
