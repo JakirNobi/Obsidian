@@ -25,6 +25,7 @@ In FCFS Scheduling
 
 - It does not consider the priority or burst time of the processes.
 - It suffers from convoy effect i.e. processes with higher burst time arrived before the processes with smaller burst time.
+### Example
 
 ![[Pasted Image 20250102145058_290.png]]
 
