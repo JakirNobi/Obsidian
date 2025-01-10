@@ -1,6 +1,6 @@
 2025-01-07 21:19
 
-Status: #active
+Status: 
 
 Tags:[[Datapath Elements]],[[Basic Implementation of Datapath]],[[The Processor->Datapath and Control]],[[Computer Architecture]] 
 
@@ -55,3 +55,5 @@ Tags:[[Datapath Elements]],[[Basic Implementation of Datapath]],[[The Processor-
 
 
 # References
+
+[Online PDF](https://elearning.unimib.it/pluginfile.php/1241149/mod_resource/content/1/Cap5_Datapath.pdf) 

@@ -17,3 +17,5 @@ All instruction classes use the ALU after reading the registers.
 - Branch – comparison.
 
 # References
+
+[Online PDF](https://elearning.unimib.it/pluginfile.php/1241149/mod_resource/content/1/Cap5_Datapath.pdf) 

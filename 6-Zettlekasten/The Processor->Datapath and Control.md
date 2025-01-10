@@ -13,3 +13,5 @@ An instruction execution in a CPU is achieved by the movement of data/datum asso
 A DATAPATH is the collection of state elements, computation elements, and interconnections that together provide a conduit for the flow and transformation of data in the processor during execution.
 
 # References
+
+[Online PDF](https://elearning.unimib.it/pluginfile.php/1241149/mod_resource/content/1/Cap5_Datapath.pdf) 
