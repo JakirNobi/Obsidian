@@ -46,9 +46,12 @@ Tags:[[Datapath Elements]],[[Basic Implementation of Datapath]],[[The Processor-
 
 ![[Building a Datapath-6.png]]
 
+#### *These instructions use a sign-extended offset to compute memory addresses by adding the offset to a base address (from the register file) using the ALU.*
 ## Branch type instruction datapath implementation
 
 ![[Building a Datapath-7.png]]
+
+#### *When calculating the branch target address, the offset is provided in word units and must be shifted left by 2 to convert it to a byte address.*
 
 
 # References
