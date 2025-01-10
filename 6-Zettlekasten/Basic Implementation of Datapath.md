@@ -1,6 +1,6 @@
 2025-01-07 20:54
 
-Status:
+Status: #completed
 
 Tags:[[Computer Architecture]],[[The Processor->Datapath and Control]]
 

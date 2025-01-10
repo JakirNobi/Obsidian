@@ -1,6 +1,6 @@
 2025-01-02 14:39
 
-Status:
+Status: #completed
 
 Tags:[[Scheduling Algorithms]],[[CPU Scheduling]],[[Operating systems]] 
 # SJF
