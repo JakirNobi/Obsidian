@@ -1,5 +1,7 @@
-{{date}} {{time}}
-
+---
+Date: "{{date}}"
+Time: "{{time}}"
+---
 Status:
 
 Tags:

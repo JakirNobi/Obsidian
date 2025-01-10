@@ -3,7 +3,7 @@
 This is Index of my courses.
 ```dataview
 table level,term
-from #course
+from [[Course]]
 ```
 
 

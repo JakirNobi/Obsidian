@@ -7,9 +7,8 @@ term: "1"
 
 Status:
 
-Tags: [[Varsity MOC]] 
+Tags: [[Varsity MOC]],[[Course]]
 
- #course 
 # Computer Architecture
 
 

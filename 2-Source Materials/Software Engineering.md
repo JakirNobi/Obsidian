@@ -7,9 +7,7 @@ term: "1"
 
 Status:
 
-Tags:[[Varsity MOC]],
-
- #course 
+Tags:[[Varsity MOC]],[[Course]]
 # Software Engineering
 
 

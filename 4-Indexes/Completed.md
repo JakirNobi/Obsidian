@@ -1,5 +1,6 @@
 # This completed notes Index
 ```dataview
-table from [[Completed]] 
+table Date,Time
+from [[Completed]] 
 ```
 

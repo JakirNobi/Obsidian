@@ -6,8 +6,7 @@ term: "1"
 
 Status:
 
-Tags: [[RDBMS]] , [[My-SQL]] ,[[Varsity MOC]]
-#course
+Tags: [[RDBMS]] , [[My-SQL]] ,[[Varsity MOC]],[[Course]]
 # Database
 
 A database is a collection of organized data that can be stored and accessed in a computer system. Database are used to store contain data or information in companies and web servers.

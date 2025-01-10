@@ -1,5 +1,7 @@
-2025-01-02 13:41
-
+---
+Date: 2025-01-10
+Time: 21:21
+---
 Status: [[Completed]] 
 
 Tags:[[CPU Scheduling]],[[Operating systems]],[[CPU and I_O Burst]]

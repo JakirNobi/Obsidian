@@ -1,5 +1,7 @@
-2025-01-07 20:58
-
+---
+Date: 2025-01-10
+Time: 21:18
+---
 Status: [[Completed]] 
 
 Tags:[[Computer Architecture]],[[Datapath Elements]],[[The Processor->Datapath and Control]] 

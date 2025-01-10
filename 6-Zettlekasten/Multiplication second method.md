@@ -1,5 +1,7 @@
-2025-01-06 21:04
-
+---
+Date: 2025-01-10
+Time: 21:20
+---
 Status: [[Completed]] 
 
 Tags:[[Computer Architecture]],[[Fixed Arithmetic for Computers & ALU Design]],[[Multiplication in Computer]] 

@@ -1,6 +1,8 @@
-2025-01-06 20:00
-
-Status: [[Completed]] 
+---
+Date: 2025-01-10
+Time: 21:20
+---
+Status: Completed 
 
 Tags:[[Computer Architecture]]
 

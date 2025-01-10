@@ -1,5 +1,7 @@
-2025-01-04 14:08
-
+---
+Date: 2025-01-10
+Time: 21:18
+---
 Status: [[Completed]] 
 
 Tags:[[Operating systems]],[[CPU Scheduling]],[[Deadlock]]
