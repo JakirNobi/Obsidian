@@ -1,6 +1,6 @@
 2025-01-06 21:33
 
-Status: #completed
+Status: [[Completed]] 
 
 Tags:[[Multiplication in Computer]],[[Computer Architecture]],[[Fixed Arithmetic for Computers & ALU Design]] 
 

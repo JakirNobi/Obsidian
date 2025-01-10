@@ -1,7 +1,7 @@
 
 2024-12-28 16:21
 
-Status: #completed
+Status: [[Completed]] 
 
 Tags: [[ER-Model]],[[Database]],[[My-SQL]],[[RDBMS]],[[Web-App]]
 

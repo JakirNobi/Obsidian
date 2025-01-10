@@ -1,6 +1,6 @@
 2025-01-02 14:41
 
-Status: #completed
+Status: [[Completed]] 
 
 Tags:[[Scheduling Algorithms]],[[Operating systems]],[[CPU Scheduling]] 
 

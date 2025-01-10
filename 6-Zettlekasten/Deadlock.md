@@ -1,6 +1,6 @@
 2025-01-04 13:48
 
-Status: #completed
+Status: [[Completed]] 
 
 Tags:[[Operating systems]],[[CPU Scheduling]]
 

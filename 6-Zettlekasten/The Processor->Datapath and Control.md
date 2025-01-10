@@ -1,6 +1,6 @@
 2025-01-07 20:38
 
-Status: #completed
+Status: [[Completed]] 
 
 Tags:[[Computer Architecture]]
 

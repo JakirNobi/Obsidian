@@ -1,6 +1,6 @@
 2025-01-02 13:25
 
-Status: #completed
+Status: [[Completed]] 
 
 Tags:[[Operating systems]],[[Scheduling Algorithms]]
 
