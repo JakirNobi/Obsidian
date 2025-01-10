@@ -28,11 +28,27 @@ Tags:[[Datapath Elements]],[[Basic Implementation of Datapath]],[[The Processor-
 
 ![[Building a Datapath-2.png]]
 
+## R-Type Datapath flow 
+
+![[Building a Datapath-5.png]]
+
 
 ## The other elements for Load and Store
 
 ![[Building a Datapath-3.png]]
 
+## Load and store datapath implementation
+
+![[Building a Datapath-4.png]]
+
+
+## Load and store datapath flow
+
+![[Building a Datapath-6.png]]
+
+## Branch type instruction datapath implementation
+
+![[Building a Datapath-7.png]]
 
 
 # References
