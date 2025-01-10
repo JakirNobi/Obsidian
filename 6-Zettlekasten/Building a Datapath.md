@@ -14,8 +14,24 @@ Tags:[[Datapath Elements]],[[Basic Implementation of Datapath]],[[The Processor-
 - IM is used to hold and supply instruction given an address
 - PC keeps the address of the instructions.
 - An adder to increment the PC to the address of the next instruction
+## PC working mode
 
 ![[Building a Datapath.png]]
+
+
+## Elements in a basic R-format instruction
+
+![[Building a Datapath-1.png]]
+
+
+## The Datapath implementation in R-Type
+
+![[Building a Datapath-2.png]]
+
+
+## The other elements for Load and Store
+
+![[Building a Datapath-3.png]]
 
 
 
