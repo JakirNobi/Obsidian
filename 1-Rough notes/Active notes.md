@@ -1,6 +1,7 @@
 # This is all my active notes
 
 ```dataview
-table from [[Active]]
+table Date,Time 
+from [[Active]]
 ```
 
