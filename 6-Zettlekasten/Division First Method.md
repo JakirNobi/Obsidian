@@ -2,9 +2,9 @@
 Date: 2025-01-11
 Time: 21:00
 ---
-Status:
+Status: [[Completed]]
 
-Tags:[[Completed]]
+Tags:[[Computer Architecture]],[[Division in Computer]],[[Fixed Arithmetic for Computers & ALU Design]] 
 
 # Division First Method
 
@@ -12,6 +12,7 @@ Tags:[[Completed]]
 ![[Division First Method-1.png]]
 
 ### Example
+
 ![[Division First Method.png]]
 
 # References
