@@ -4,7 +4,7 @@ Time: 22:54
 ---
 Status:[[Active]]
 
-Tags:[[Computer Architecture]],[[The Processor->Datapath and Control]],[[Basic Implementation of Datapath]],[[Datapath Elements]] 
+Tags:[[Computer Architecture]],[[The Processor->Datapath and Control]],[[Basic Implementation of Datapath]],[[Datapath Elements]] ,[[Single Cycle]] 
 
 # Complete Datapath
 

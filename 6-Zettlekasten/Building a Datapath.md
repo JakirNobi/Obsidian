@@ -5,7 +5,7 @@ Time: 21:17
 
 Status: [[Completed]] 
 
-Tags:[[Datapath Elements]],[[Basic Implementation of Datapath]],[[The Processor->Datapath and Control]],[[Computer Architecture]] 
+Tags:[[Datapath Elements]],[[Basic Implementation of Datapath]],[[The Processor->Datapath and Control]],[[Computer Architecture]],[[Single Cycle]] 
 
 # Building a Datapath
 

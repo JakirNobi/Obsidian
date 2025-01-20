@@ -4,7 +4,7 @@ Time: 20:29
 ---
 Status:[[Active]]
 
-Tags:[[Computer Architecture]],[[Complete Datapath]],[[The Processor->Datapath and Control]] 
+Tags:[[Computer Architecture]],[[Complete Datapath]],[[The Processor->Datapath and Control]],[[Single Cycle]]  
 
 # Control signal
 
