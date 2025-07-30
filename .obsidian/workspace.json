@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "5accfe82fdd3e0be",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "19497f3e31a226b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6-Zettlekasten/Control signal.md",
+                "file": "6-Zettlekasten/JavaScript.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Control signal"
+              "title": "JavaScript"
             }
           }
         ]
@@ -195,9 +195,15 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "79a586fb695076dd",
   "lastOpenFiles": [
+    "6-Zettlekasten/JavaScript.md",
+    "6-Zettlekasten/Untitled.md",
     "1-Rough notes/Active notes.md",
+    "5-Templates/Code Template.md",
+    "5-Templates/Course template.md",
+    "5-Templates/Note template.md",
+    "6-Zettlekasten/Control signal.md",
     "6-Zettlekasten/ER to Schema.md",
     "6-Zettlekasten/ER-Model.md",
     "6-Zettlekasten/Deadlock Characterization.md",
@@ -209,8 +215,6 @@
     "2-Source Materials/Operating systems.md",
     "2-Source Materials/Database.md",
     "1-Rough notes/rough1.md",
-    "5-Templates/Course template.md",
-    "5-Templates/Note template.md",
     "README.md",
     "6-Zettlekasten/Complete Datapath.md",
     "6-Zettlekasten/Building a Datapath.md",
