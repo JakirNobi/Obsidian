@@ -34,11 +34,11 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "1-Rough notes": "LiNotebook",
   "2-Source Materials": "LiKey",
   "3-Tags": "LiTags",
   "6-Zettlekasten": "LiNetwork",
   "4-Indexes": "LiBookText",
   "5-Templates": "LiBookTemplate",
-  "7-Resources": "LiFolder"
+  "7-Resources": "LiFolder",
+  "1-Organized View": "LiNotebook"
 }
