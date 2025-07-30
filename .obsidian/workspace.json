@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b832c780e8dd6ee6",
+        "id": "2b9842a11b974c07",
         "type": "tabs",
         "children": [
           {
-            "id": "7843896a680c736b",
+            "id": "b518d302fbfd3b82",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -110,7 +110,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Js Function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Js Function"
+              "title": "Backlinks"
             }
           },
           {
@@ -129,12 +128,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Js Function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Js Function"
+              "title": "Outgoing links"
             }
           },
           {
@@ -158,13 +156,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Js Function.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Js Function"
+              "title": "Outline"
             }
           }
         ],
@@ -202,9 +199,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "7843896a680c736b",
+  "active": "1e4b401d20068452",
   "lastOpenFiles": [
     "Js Function.md",
+    "7-Resources/WhatsApp Image 2025-07-30 at 9.27.48 PM.jpeg",
+    "7-Resources/WhatsApp Image 2025-07-30 at 9.18.41 PM.png",
+    "7-Resources/WhatsApp Image 2025-07-30 at 8.53.22 PM.jpeg",
+    "WhatsApp Image 2025-07-30 at 8.53.22 PM.jpeg",
     "1-Organized View/Active notes.md",
     "4-Indexes/Completed.md",
     "6-Zettlekasten/JavaScript.md",
@@ -228,7 +229,6 @@
     "2-Source Materials/Theory of Computation.md",
     "2-Source Materials/Computer Architecture.md",
     "2-Source Materials/Software Engineering.md",
-    "2-Source Materials/Operating systems.md",
-    "2-Source Materials/Database.md"
+    "2-Source Materials/Operating systems.md"
   ]
 }
