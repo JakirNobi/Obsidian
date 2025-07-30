@@ -8,5 +8,5 @@ Tags:[[Computer Architecture]],[[Complete Datapath]],[[The Processor->Datapath a
 
 # Control signal
 
-gfsdafhhw
+
 # References
