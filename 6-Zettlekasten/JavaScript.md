@@ -4,7 +4,7 @@ Time: 19:10
 cssclasses:
   - no-embed-border
 ---
-Status : [[Active]]
+Status : [[Completed]]
 Tags : [[Code]], [[Js]]
 # JavaScript
 
@@ -23,6 +23,8 @@ JavaScript is one of the **3 languages** all web developers must learn:
    2. [**CSS**](https://www.w3schools.com/css/default.asp) to specify the layout of web pages
 
    3. **JavaScript** to program the behavior of web pages
+
+
 ---
 # Code Block
 

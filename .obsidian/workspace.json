@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cb4e7a708a04cf2f",
+        "id": "b832c780e8dd6ee6",
         "type": "tabs",
         "children": [
           {
-            "id": "e4a44a6ba2adc8f7",
+            "id": "7843896a680c736b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -106,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-Organized View/Active notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Active notes"
+              "title": "Backlinks"
             }
           },
           {
@@ -125,12 +124,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-Organized View/Active notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Active notes"
+              "title": "Outgoing links"
             }
           },
           {
@@ -154,13 +152,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-Organized View/Active notes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Active notes"
+              "title": "Outline"
             }
           }
         ],
@@ -198,15 +195,16 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "79a586fb695076dd",
+  "active": "7843896a680c736b",
   "lastOpenFiles": [
+    "1-Organized View/Active notes.md",
     "4-Indexes/Completed.md",
+    "6-Zettlekasten/JavaScript.md",
+    "3-Tags/Active.md",
     "4-Indexes/Varsity MOC.md",
     "4-Indexes/All-Js-notes.md",
     "4-Indexes/All-Code-notes.md",
-    "1-Organized View/Active notes.md",
     "1-Rough notes/rough1.md",
-    "6-Zettlekasten/JavaScript.md",
     "3-Tags/Code.md",
     "3-Tags/Js.md",
     "6-Zettlekasten/Untitled.md",
@@ -224,7 +222,6 @@
     "2-Source Materials/Software Engineering.md",
     "2-Source Materials/Operating systems.md",
     "2-Source Materials/Database.md",
-    "README.md",
-    "6-Zettlekasten/Complete Datapath.md"
+    "README.md"
   ]
 }
