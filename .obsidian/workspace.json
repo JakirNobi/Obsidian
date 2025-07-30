@@ -11,10 +11,14 @@
             "id": "7843896a680c736b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Js Function.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Js Function"
             }
           }
         ]
@@ -106,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Js Function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Js Function"
             }
           },
           {
@@ -124,11 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Js Function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Js Function"
             }
           },
           {
@@ -152,12 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Js Function.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Js Function"
             }
           }
         ],
@@ -197,6 +204,7 @@
   },
   "active": "7843896a680c736b",
   "lastOpenFiles": [
+    "Js Function.md",
     "1-Organized View/Active notes.md",
     "4-Indexes/Completed.md",
     "6-Zettlekasten/JavaScript.md",
@@ -221,7 +229,6 @@
     "2-Source Materials/Computer Architecture.md",
     "2-Source Materials/Software Engineering.md",
     "2-Source Materials/Operating systems.md",
-    "2-Source Materials/Database.md",
-    "README.md"
+    "2-Source Materials/Database.md"
   ]
 }
