@@ -1,3 +1,6 @@
 {
-  "attachmentFolderPath": "7-Resources"
+  "attachmentFolderPath": "7-Resources",
+  "spellcheck": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "6-Zettlekasten"
 }

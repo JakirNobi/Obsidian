@@ -2,8 +2,8 @@
 Date: 2025-07-30
 Time: 19:10
 cssclasses:
-  - no-embed-border
 ---
+#code #js 
 Status : [[Completed]]
 Tags : [[Code]], [[Js]]
 # JavaScript

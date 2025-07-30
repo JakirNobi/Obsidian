@@ -6,6 +6,8 @@ cssclasses:
   - center-titles
   - center-images
 ---
+#code #js #function
+
 Status :[[Completed]]
 Tags :[[Code]],[[Js]]
 # Js Function
