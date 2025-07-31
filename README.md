@@ -2,5 +2,5 @@
 
 # Picture Of the VAULT
 
-![IMAGE](vault)
+![IMAGE](vault.png)
 

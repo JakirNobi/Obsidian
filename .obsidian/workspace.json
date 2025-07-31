@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "808a5baa19137762",
+        "id": "c9c5d18f59179096",
         "type": "tabs",
         "children": [
           {
-            "id": "467142f8b4ee0524",
+            "id": "7e4c3eeb8458e12a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -212,10 +212,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "467142f8b4ee0524",
+  "active": "7e4c3eeb8458e12a",
   "lastOpenFiles": [
-    "6-Zettlekasten/pastde.md",
+    "6-Zettlekasten/vault.md",
     "README.md",
+    "6-Zettlekasten/pastde.md",
     "vault.png",
     "4-Indexes/Completed.md",
     "1-Organized View/Active notes.md",
@@ -243,7 +244,6 @@
     "4-Indexes/All-Code-notes.md",
     "1-Rough notes/rough1.md",
     "3-Tags/Code.md",
-    "3-Tags/Js.md",
-    "6-Zettlekasten/Untitled.md"
+    "3-Tags/Js.md"
   ]
 }
