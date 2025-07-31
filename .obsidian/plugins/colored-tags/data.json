@@ -13,7 +13,11 @@
     "js": 1,
     "codefunction": 2,
     "code": 3,
-    "function": 4
+    "function": 4,
+    "microprocessor": 5,
+    "addressingmode": 6,
+    "proc80886": 7,
+    "note": 8
   },
   "_version": 3
 }
