@@ -73,6 +73,18 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "f2ed4b79e29a4c6c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "com.maxymillion.zen",
+              "state": {},
+              "pinned": true,
+              "icon": "eye",
+              "title": "Zen"
+            }
           }
         ]
       },
@@ -202,35 +214,35 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "4-Indexes/Varsity MOC.md",
+    "2-Source Materials/Microprocessor.md",
+    "2-Source Materials/Software Engineering.md",
+    "2-Source Materials/Operating systems.md",
+    "2-Source Materials/Database.md",
+    "1-Organized View/Active notes.md",
+    "6-Zettlekasten/Regular Expressions.md",
+    "6-Zettlekasten/Floating Point.md",
+    "6-Zettlekasten/Control signal.md",
+    "6-Zettlekasten/Complete Datapath.md",
     "5-Templates/Note template.md",
     "6-Zettlekasten/Js Function.md",
     "5-Templates/Code Template.md",
     "5-Templates/Course template.md",
     "6-Zettlekasten/JavaScript.md",
     "README.md",
-    "1-Organized View/Active notes.md",
     "7-Resources/WhatsApp Image 2025-07-30 at 9.27.48 PM.jpeg",
     "7-Resources/WhatsApp Image 2025-07-30 at 9.18.41 PM.png",
     "7-Resources/WhatsApp Image 2025-07-30 at 8.53.22 PM.jpeg",
     "WhatsApp Image 2025-07-30 at 8.53.22 PM.jpeg",
     "4-Indexes/Completed.md",
     "3-Tags/Active.md",
-    "4-Indexes/Varsity MOC.md",
     "4-Indexes/All-Js-notes.md",
     "4-Indexes/All-Code-notes.md",
     "1-Rough notes/rough1.md",
     "3-Tags/Code.md",
     "3-Tags/Js.md",
     "6-Zettlekasten/Untitled.md",
-    "6-Zettlekasten/Control signal.md",
     "6-Zettlekasten/ER to Schema.md",
-    "6-Zettlekasten/ER-Model.md",
-    "6-Zettlekasten/Deadlock Characterization.md",
-    "6-Zettlekasten/Datapath Elements.md",
-    "6-Zettlekasten/CPU and I_O Burst.md",
-    "2-Source Materials/Theory of Computation.md",
-    "2-Source Materials/Computer Architecture.md",
-    "2-Source Materials/Software Engineering.md",
-    "2-Source Materials/Operating systems.md"
+    "6-Zettlekasten/ER-Model.md"
   ]
 }

@@ -2,8 +2,7 @@
   "cssTheme": "Obsidianite",
   "enabledCssSnippets": [
     "CyanVoxel's General Tweaks",
-    "Notebook Backgrounds",
-    "Colored Sidebar Items"
+    "Notebook Backgrounds"
   ],
   "accentColor": "",
   "theme": "obsidian",

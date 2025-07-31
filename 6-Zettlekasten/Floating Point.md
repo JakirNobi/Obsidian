@@ -2,7 +2,7 @@
 Date: 2025-01-11
 Time: 21:23
 ---
- Status:[[Active]]
+ Status:[[Completed]]
 
 Tags:[[Floating point operations in computer]],[[Fixed Arithmetic for Computers & ALU Design]],[[Computer Architecture]]
 

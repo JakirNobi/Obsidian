@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": "#1fadd1",
     "recentlyUsedIcons": [
+      "LiGlobe2",
       "LiFolder",
       "LiBookTemplate",
       "LiBookText",
-      "LiNetwork",
-      "LiWorkflow"
+      "LiNetwork"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -34,7 +34,7 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "2-Source Materials": "LiKey",
+  "2-Source Materials": "LiGlobe2",
   "3-Tags": "LiTags",
   "6-Zettlekasten": "LiNetwork",
   "4-Indexes": "LiBookText",

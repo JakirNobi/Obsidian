@@ -1,4 +1,4 @@
 {
-  "scheme": "csDefault",
-  "increaseContrast": false
+  "scheme": "csA11y",
+  "increaseContrast": true
 }
