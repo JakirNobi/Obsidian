@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1fe95e17ad3fa263",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "e98185c18174d090",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "1-Organized View/Active notes.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Active notes"
             }
           }
         ]
@@ -124,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-Templates/Code Template.md",
+                "file": "1-Organized View/Active notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Code Template"
+              "title": "Outgoing links from Active notes"
             }
           },
           {
@@ -196,7 +200,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "79a586fb695076dd",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "5-Templates/Note template.md",
     "6-Zettlekasten/Js Function.md",
