@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Organized View/Active notes.md",
+                "file": "6-Zettlekasten/Js Objects.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Active notes"
+              "title": "Js Objects"
             }
           }
         ]
@@ -140,12 +140,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-Organized View/Active notes.md",
+                "file": "6-Zettlekasten/Js Objects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Active notes"
+              "title": "Outgoing links from Js Objects"
             }
           },
           {
@@ -214,12 +214,13 @@
   },
   "active": "a27cdd181a4bfff6",
   "lastOpenFiles": [
+    "1-Organized View/Active notes.md",
+    "6-Zettlekasten/Js Objects.md",
     "README.md",
     "6-Zettlekasten/vault.md",
     "6-Zettlekasten/pastde.md",
     "vault.png",
     "4-Indexes/Completed.md",
-    "1-Organized View/Active notes.md",
     "6-Zettlekasten/Addressing Mode.md",
     "5-Templates/Course template.md",
     "5-Templates/Note template.md",
@@ -243,7 +244,6 @@
     "4-Indexes/All-Js-notes.md",
     "4-Indexes/All-Code-notes.md",
     "1-Rough notes/rough1.md",
-    "3-Tags/Code.md",
-    "3-Tags/Js.md"
+    "3-Tags/Code.md"
   ]
 }
