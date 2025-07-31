@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "625b5e039d7cc0ef",
+        "id": "1d2131b377f42da4",
         "type": "tabs",
         "children": [
           {
-            "id": "a27cdd181a4bfff6",
+            "id": "5169e91167ade144",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6-Zettlekasten/Js Objects.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Js Objects"
+              "title": "New tab"
             }
           }
         ]
@@ -140,12 +136,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6-Zettlekasten/Js Objects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Js Objects"
+              "title": "Outgoing links"
             }
           },
           {
@@ -212,10 +207,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a27cdd181a4bfff6",
+  "active": "5169e91167ade144",
   "lastOpenFiles": [
-    "1-Organized View/Active notes.md",
     "6-Zettlekasten/Js Objects.md",
+    "4-Indexes/All-Js-notes.md",
+    "1-Organized View/Active notes.md",
     "README.md",
     "6-Zettlekasten/vault.md",
     "6-Zettlekasten/pastde.md",
@@ -241,7 +237,6 @@
     "7-Resources/WhatsApp Image 2025-07-30 at 8.53.22 PM.jpeg",
     "WhatsApp Image 2025-07-30 at 8.53.22 PM.jpeg",
     "3-Tags/Active.md",
-    "4-Indexes/All-Js-notes.md",
     "4-Indexes/All-Code-notes.md",
     "1-Rough notes/rough1.md",
     "3-Tags/Code.md"
