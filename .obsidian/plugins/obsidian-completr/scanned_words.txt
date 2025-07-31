@@ -147,6 +147,7 @@ TGs
 TP
 TGj
 TBoBK
+They
 Status
 System
 SQL
@@ -641,6 +642,10 @@ tA
 tuUP
 tWP
 tr
+titles
+too
+type
+these
 MIPS
 Management
 MS
@@ -725,6 +730,7 @@ MD
 MHw
 MXY
 MKA
+Mutable
 architecture
 all
 active
@@ -816,6 +822,8 @@ aA
 aYll
 axr
 ap
+assign
+addressed
 combines
 classes
 can
@@ -919,6 +927,10 @@ cxx
 cEV
 cn
 cH
+center
+car
+company
+capacity
 elements
 each
 easily
@@ -1000,6 +1012,8 @@ eLh
 eRyIh
 ex
 eQZ
+engine
+etc
 required
 relational
 registers
@@ -1075,6 +1089,9 @@ rGM
 ra
 ru
 rj
+replicate
+real
+reference
 by
 be
 based
@@ -1582,6 +1599,9 @@ mmZ
 mLhM
 mQLp
 mEu
+many
+may
+multiple
 notes
 number
 negative
@@ -1659,6 +1679,7 @@ nz
 nr
 nXy
 nMx
+not
 Floating
 FW
 FFG
@@ -1727,6 +1748,7 @@ FP
 Fo
 Fr
 Fvn
+For
 Point
 PNG
 PNHHG
@@ -1863,6 +1885,9 @@ pdK
 pcz
 pUE
 pastde
+properties
+production
+pair
 or
 of
 organized
@@ -1948,6 +1973,8 @@ okOC
 oI
 oDU
 oU
+objects
+object
 whole
 with
 way
@@ -2256,6 +2283,7 @@ lD
 lzX
 ld
 lt
+life
 used
 users
 unique
@@ -2329,6 +2357,8 @@ ux
 uuv
 uC
 uF
+use
+using
 query
 qJI
 qv
@@ -2479,6 +2509,7 @@ OROy
 OIr
 OH
 OHa
+Objects
 has
 hn
 hfe
@@ -2556,6 +2587,7 @@ hON
 hFB
 hWT
 hdC
+have
 key
 kX
 kQ
@@ -2830,6 +2862,7 @@ Bb
 Bm
 Bc
 Bj
+But
 What
 WB
 WO
@@ -2985,6 +3018,8 @@ vBMM
 vah
 vD
 vault
+variables
+values
 Here
 HZ
 HA
@@ -3820,6 +3855,7 @@ JtC
 JJC
 JgG
 Ja
+JavaScript
 Gq
 GX
 Gc
@@ -3944,6 +3980,7 @@ yy
 yA
 yO
 yLTs
+year
 üD
 ßO
 ßNh
