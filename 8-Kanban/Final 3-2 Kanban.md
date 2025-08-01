@@ -4,34 +4,7 @@ kanban-plugin: board
 
 ---
 
-## Web Technologies
-
-- [ ] JSON_XML_AJAX
-- [ ] Data Tier
-- [ ] Session & Cokkies
-- [ ] MVC & Laravel
-
-
-## MIS
-
-- [ ] CMS
-- [ ] BIS
-- [ ] ESS
-- [ ] EAI
-- [ ] BCP
-- [ ] SCM
-- [ ] SDLC
-- [ ] Secuirity & Ethics
-
-
-## networking
-
-- [ ] [[Transport Layer]]
-- [ ] [[Network Layer]]
-- [ ] [[Data Link Layer]]
-
-
-## data communication
+## data communication<br>@{2025-08-11}
 
 - [ ] PCM,DM,Data transmission
 - [ ] Analog to Analog Conversion
@@ -41,12 +14,39 @@ kanban-plugin: board
 - [ ] GSM,Frequency reuse,Handoff
 
 
-## microprocessor
+## microprocessor<br>@{2025-08-13}
 
 - [ ] [[Lesson 3-4]]
 - [ ] [[Lesson 5]]
 - [ ] [[Lesson 6]]
 - [ ] [[Lesson 7]]
+
+
+## networking<br>@{2025-08-17}
+
+- [ ] [[Transport Layer]]
+- [ ] [[Network Layer]]
+- [ ] [[Data Link Layer]]
+
+
+## Web Technologies<br>@{2025-08-19}
+
+- [ ] JSON_XML_AJAX
+- [ ] Data Tier
+- [ ] Session & Cokkies
+- [ ] MVC & Laravel
+
+
+## MIS<br>@{2025-08-21}
+
+- [ ] CMS
+- [ ] BIS
+- [ ] ESS
+- [ ] EAI
+- [ ] BCP
+- [ ] SCM
+- [ ] SDLC
+- [ ] Secuirity & Ethics
 
 
 
