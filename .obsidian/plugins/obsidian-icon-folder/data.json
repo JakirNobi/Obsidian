@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": "#1fadd1",
     "recentlyUsedIcons": [
+      "LiKanbanSquareDashed",
       "LiGlobe2",
       "LiFolder",
       "LiBookTemplate",
-      "LiBookText",
-      "LiNetwork"
+      "LiBookText"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -40,5 +40,6 @@
   "4-Indexes": "LiBookText",
   "5-Templates": "LiBookTemplate",
   "7-Resources": "LiFolder",
-  "1-Organized View": "LiNotebook"
+  "1-Organized View": "LiNotebook",
+  "8-Kanban": "LiKanbanSquareDashed"
 }

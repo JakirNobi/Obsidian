@@ -2,5 +2,6 @@
   "attachmentFolderPath": "7-Resources",
   "spellcheck": false,
   "newFileLocation": "folder",
-  "newFileFolderPath": "6-Zettlekasten"
+  "newFileFolderPath": "6-Zettlekasten",
+  "alwaysUpdateLinks": true
 }

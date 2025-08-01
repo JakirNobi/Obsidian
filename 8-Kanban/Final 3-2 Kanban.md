@@ -4,6 +4,26 @@ kanban-plugin: board
 
 ---
 
+## Web Technologies
+
+- [ ] JSON_XML_AJAX
+- [ ] Data Tier
+- [ ] Session & Cokkies
+- [ ] MVC & Laravel
+
+
+## MIS
+
+- [ ] CMS
+- [ ] BIS
+- [ ] ESS
+- [ ] EAI
+- [ ] BCP
+- [ ] SCM
+- [ ] SDLC
+- [ ] Secuirity & Ethics
+
+
 ## networking
 
 - [ ] [[Transport Layer]]
@@ -25,22 +45,14 @@ kanban-plugin: board
 
 - [ ] [[Lesson 3-4]]
 - [ ] [[Lesson 5]]
-- [ ] [[Leasson 6]]
+- [ ] [[Lesson 6]]
 - [ ] [[Lesson 7]]
-
-
-## MIS
-
-
-
-## Web Technologies
-
 
 
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false],"show-checkboxes":true,"full-list-lane-width":false,"new-note-template":"5-Templates/Kanban Template.md","new-note-folder":"8-Kanban"}
 ```
 %%

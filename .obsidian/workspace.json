@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "84ed2bb9d3c26c4b",
+        "id": "e44e9d1fd0c2fd08",
         "type": "tabs",
         "children": [
           {
-            "id": "15c606f578f8a74e",
+            "id": "23fb3bed859552a4",
             "type": "leaf",
             "state": {
               "type": "kanban",
               "state": {
-                "file": "6-Zettlekasten/Final 3-2 Kanban.md",
+                "file": "8-Kanban/Final 3-2 Kanban.md",
                 "kanbanViewState": {
                   "kanban-plugin": "board",
                   "list-collapse": [
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6-Zettlekasten/Final 3-2 Kanban.md",
+                "file": "8-Kanban/Final 3-2 Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -223,25 +223,27 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "15c606f578f8a74e",
+  "active": "23fb3bed859552a4",
   "lastOpenFiles": [
-    "6-Zettlekasten/Data Link Layer.md",
-    "6-Zettlekasten/Final 3-2 Kanban.md",
-    "6-Zettlekasten/Network Layer.md",
-    "6-Zettlekasten/Transport Layer.md",
+    "8-Kanban/Data Link Layer.md",
+    "8-Kanban/Lesson 6.md",
+    "6-Zettlekasten/Js Objects.md",
+    "8-Kanban/Lesson 7.md",
+    "8-Kanban/Lesson 5.md",
+    "6-Zettlekasten/The Processor->Datapath and Control.md",
+    "8-Kanban/Final 3-2 Kanban.md",
+    "vault.png",
+    "README.md",
+    "8-Kanban",
+    "8-Kanban/Network Layer.md",
+    "8-Kanban/Transport Layer.md",
     "2-Source Materials/Networking.md",
     "6-Zettlekasten/pastde.md",
     "1-Organized View/Active notes.md",
-    "6-Zettlekasten/Lesson 7.md",
-    "6-Zettlekasten/Leasson 6.md",
-    "6-Zettlekasten/Lesson 5.md",
-    "6-Zettlekasten/Lesson 3-4.md",
+    "8-Kanban/Lesson 3-4.md",
     "5-Templates/Kanban Template.md",
-    "6-Zettlekasten/Js Objects.md",
     "4-Indexes/All-Js-notes.md",
-    "README.md",
     "6-Zettlekasten/vault.md",
-    "vault.png",
     "4-Indexes/Completed.md",
     "6-Zettlekasten/Addressing Mode.md",
     "5-Templates/Course template.md",
@@ -251,7 +253,6 @@
     "2-Source Materials/Microprocessor.md",
     "2-Source Materials/Software Engineering.md",
     "2-Source Materials/Operating systems.md",
-    "2-Source Materials/Database.md",
     "7-Resources/WhatsApp Image 2025-07-30 at 9.27.48 PM.jpeg",
     "7-Resources/WhatsApp Image 2025-07-30 at 9.18.41 PM.png",
     "7-Resources/WhatsApp Image 2025-07-30 at 8.53.22 PM.jpeg",

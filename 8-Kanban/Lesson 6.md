@@ -3,13 +3,12 @@ Date: "2025-08-01"
 Time: "17:27"
 cssclasses:
 ---
-#kanban
 
 Status:[[Completed]]
 
 Tags:[[Microprocessor]]
 
-# Leasson 6
+# Lesson 6
 
 ## Notes
 

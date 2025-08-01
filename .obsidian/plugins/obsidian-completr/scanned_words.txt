@@ -73,6 +73,8 @@ Dt
 Data
 Differnces
 Dsss
+DATAPATH
+DMA
 Time
 Tags
 The
@@ -157,6 +159,11 @@ TDM
 Transmission
 Transport
 TCP
+Tier
+Token
+Timer
+Topic
+Trap
 Status
 System
 SQL
@@ -222,6 +229,12 @@ Sb
 SZw
 Slide
 Syn
+Session
+SCM
+SDLC
+Secuirity
+Slotted
+Switch
 Complete
 Control
 Codd
@@ -309,6 +322,11 @@ CMD
 Cv
 Conversion
 Congestion
+Cokkies
+CMS
+CPU
+CSMA
+CD
 simple
 signal
 stored
@@ -404,6 +422,7 @@ slide
 scheme
 spread
 spectrum
+state
 datapath
 different
 decimal
@@ -494,6 +513,9 @@ dJE
 dir
 diagram
 detection
+datum
+during
+definition
 for
 floating
 from
@@ -584,6 +606,8 @@ fP
 following
 flowchart
 fiber
+facilitated
+flow
 the
 their
 to
@@ -674,6 +698,8 @@ these
 transfer
 transmission
 twisted
+together
+transformation
 MIPS
 Management
 MS
@@ -760,6 +786,8 @@ MXY
 MKA
 Mutable
 MIS
+MVC
+Motivation
 architecture
 all
 active
@@ -853,6 +881,8 @@ axr
 ap
 assign
 addressed
+achieved
+associated
 combines
 classes
 can
@@ -965,6 +995,9 @@ communication
 coxial
 cable
 correction
+computation
+conduit
+complete
 elements
 each
 easily
@@ -1049,6 +1082,7 @@ eQZ
 engine
 etc
 explanation
+execution
 required
 relational
 registers
@@ -1129,6 +1163,7 @@ real
 reference
 radio
 reuse
+reset
 by
 be
 based
@@ -1292,6 +1327,7 @@ ioo
 iV
 iK
 iJs
+interconnections
 Add
 All
 Access
@@ -1370,6 +1406,12 @@ Ad
 AKy
 AB
 Analog
+AJAX
+ALOHA
+ARP
+AVR
+ATMEGA
+Assembly
 Instruction
 It
 IBM
@@ -1456,6 +1498,7 @@ IH
 IDATr
 IEND
 Interfacing
+Interrupt
 References
 Regular
 RDBMS
@@ -1547,6 +1590,8 @@ RlB
 Rb
 RVm
 RCW
+Role
+Router
 my
 managed
 manage
@@ -1644,6 +1689,8 @@ may
 multiple
 medium
 microwave
+movement
+mechanism
 notes
 number
 negative
@@ -1867,6 +1914,11 @@ Pzue
 PQQ
 Picture
 PCM
+Processor
+Passing
+PIC
+Presentation
+Push
 point
 positive
 position
@@ -1939,6 +1991,9 @@ pair
 person
 plugin
 propagation
+png
+provide
+processor
 or
 of
 organized
@@ -2111,6 +2166,7 @@ wlzt
 wh
 will
 works
+working
 get
 gq
 gD
@@ -2260,6 +2316,9 @@ EEb
 EbK
 EVt
 Error
+ESS
+EAI
+Ethics
 level
 like
 located
@@ -2339,6 +2398,7 @@ lzX
 ld
 lt
 life
+link
 used
 users
 unique
@@ -2778,6 +2838,7 @@ VjH
 Vr
 VHlM
 VP
+VLAN
 Notes
 NL
 Nt
@@ -2921,6 +2982,9 @@ Bm
 Bc
 Bj
 But
+BIS
+BCP
+Basics
 What
 WB
 WO
@@ -3579,6 +3643,7 @@ XY
 XV
 XE
 XjY
+XML
 YD
 Yr
 Yt
@@ -3846,6 +3911,9 @@ Lesson
 Leasson
 Layer
 Link
+Laravel
+Language
+Loop
 Jx
 JFH
 Jw
@@ -3923,6 +3991,7 @@ JJC
 JgG
 Ja
 JavaScript
+JSON
 Gq
 GX
 Gc
