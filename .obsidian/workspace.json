@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "84ed2bb9d3c26c4b",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "15c606f578f8a74e",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -83,7 +83,7 @@
             }
           },
           {
-            "id": "eb339ae4d65e82a0",
+            "id": "c65e336fc3d46e5f",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -223,20 +223,24 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "15c606f578f8a74e",
   "lastOpenFiles": [
-    "6-Zettlekasten/Lesson 7.md",
+    "6-Zettlekasten/Data Link Layer.md",
     "6-Zettlekasten/Final 3-2 Kanban.md",
+    "6-Zettlekasten/Network Layer.md",
+    "6-Zettlekasten/Transport Layer.md",
+    "2-Source Materials/Networking.md",
+    "6-Zettlekasten/pastde.md",
+    "1-Organized View/Active notes.md",
+    "6-Zettlekasten/Lesson 7.md",
     "6-Zettlekasten/Leasson 6.md",
     "6-Zettlekasten/Lesson 5.md",
     "6-Zettlekasten/Lesson 3-4.md",
     "5-Templates/Kanban Template.md",
-    "1-Organized View/Active notes.md",
     "6-Zettlekasten/Js Objects.md",
     "4-Indexes/All-Js-notes.md",
     "README.md",
     "6-Zettlekasten/vault.md",
-    "6-Zettlekasten/pastde.md",
     "vault.png",
     "4-Indexes/Completed.md",
     "6-Zettlekasten/Addressing Mode.md",
@@ -248,10 +252,6 @@
     "2-Source Materials/Software Engineering.md",
     "2-Source Materials/Operating systems.md",
     "2-Source Materials/Database.md",
-    "6-Zettlekasten/Regular Expressions.md",
-    "6-Zettlekasten/Floating Point.md",
-    "6-Zettlekasten/Control signal.md",
-    "6-Zettlekasten/Complete Datapath.md",
     "7-Resources/WhatsApp Image 2025-07-30 at 9.27.48 PM.jpeg",
     "7-Resources/WhatsApp Image 2025-07-30 at 9.18.41 PM.png",
     "7-Resources/WhatsApp Image 2025-07-30 at 8.53.22 PM.jpeg",

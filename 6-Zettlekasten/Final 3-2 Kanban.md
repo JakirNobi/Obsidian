@@ -4,8 +4,21 @@ kanban-plugin: board
 
 ---
 
+## networking
+
+- [ ] [[Transport Layer]]
+- [ ] [[Network Layer]]
+- [ ] [[Data Link Layer]]
+
+
 ## data communication
 
+- [ ] PCM,DM,Data transmission
+- [ ] Analog to Analog Conversion
+- [ ] FDM,TDM,WDM spread spectrum(Dsss,FHsss)
+- [ ] Transmission medium(coxial,twisted pair cable,optical fiber,radio,microwave,propagation mode)
+- [ ] Error detection & correction
+- [ ] GSM,Frequency reuse,Handoff
 
 
 ## microprocessor
@@ -14,10 +27,6 @@ kanban-plugin: board
 - [ ] [[Lesson 5]]
 - [ ] [[Leasson 6]]
 - [ ] [[Lesson 7]]
-
-
-## networking
-
 
 
 ## MIS

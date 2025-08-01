@@ -72,6 +72,7 @@ DeS
 Dt
 Data
 Differnces
+Dsss
 Time
 Tags
 The
@@ -152,6 +153,10 @@ TBoBK
 They
 These
 Technologies
+TDM
+Transmission
+Transport
+TCP
 Status
 System
 SQL
@@ -216,6 +221,7 @@ St
 Sb
 SZw
 Slide
+Syn
 Complete
 Control
 Codd
@@ -301,6 +307,8 @@ CR
 CljYl
 CMD
 Cv
+Conversion
+Congestion
 simple
 signal
 stored
@@ -394,6 +402,8 @@ settings
 speed
 slide
 scheme
+spread
+spectrum
 datapath
 different
 decimal
@@ -483,6 +493,7 @@ da
 dJE
 dir
 diagram
+detection
 for
 floating
 from
@@ -572,6 +583,7 @@ fV
 fP
 following
 flowchart
+fiber
 the
 their
 to
@@ -660,6 +672,8 @@ too
 type
 these
 transfer
+transmission
+twisted
 MIPS
 Management
 MS
@@ -948,6 +962,9 @@ company
 capacity
 copy
 communication
+coxial
+cable
+correction
 elements
 each
 easily
@@ -1110,6 +1127,8 @@ rj
 replicate
 real
 reference
+radio
+reuse
 by
 be
 based
@@ -1350,6 +1369,7 @@ AG
 Ad
 AKy
 AB
+Analog
 Instruction
 It
 IBM
@@ -1622,6 +1642,8 @@ mEu
 many
 may
 multiple
+medium
+microwave
 notes
 number
 negative
@@ -1770,6 +1792,10 @@ Fo
 Fr
 Fvn
 For
+FDM
+FHsss
+Frequency
+Fin
 Point
 PNG
 PNHHG
@@ -1840,6 +1866,7 @@ PR
 Pzue
 PQQ
 Picture
+PCM
 point
 positive
 position
@@ -1911,6 +1938,7 @@ production
 pair
 person
 plugin
+propagation
 or
 of
 organized
@@ -1998,6 +2026,7 @@ oDU
 oU
 objects
 object
+optical
 whole
 with
 way
@@ -2081,6 +2110,7 @@ wWo
 wlzt
 wh
 will
+works
 get
 gq
 gD
@@ -2229,6 +2259,7 @@ EWJ
 EEb
 EbK
 EVt
+Error
 level
 like
 located
@@ -2819,6 +2850,7 @@ Nd
 NxCW
 NyB
 NFqv
+Network
 Block
 BX
 BP
@@ -2964,6 +2996,7 @@ WHF
 Wr
 Web
 Why
+WDM
 various
 value
 vbzf
@@ -3116,6 +3149,8 @@ HjQQh
 Hik
 Hg
 HQH
+Handoff
+How
 Used
 Uk
 UJ
@@ -3809,6 +3844,8 @@ LTkE
 LHI
 Lesson
 Leasson
+Layer
+Link
 Jx
 JFH
 Jw
