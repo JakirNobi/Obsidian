@@ -70,6 +70,8 @@ Dq
 DO
 DeS
 Dt
+Data
+Differnces
 Time
 Tags
 The
@@ -149,6 +151,7 @@ TGj
 TBoBK
 They
 These
+Technologies
 Status
 System
 SQL
@@ -212,6 +215,7 @@ SXA
 St
 Sb
 SZw
+Slide
 Complete
 Control
 Codd
@@ -386,6 +390,10 @@ sJt
 sFx
 sf
 statement
+settings
+speed
+slide
+scheme
 datapath
 different
 decimal
@@ -474,6 +482,7 @@ dYt
 da
 dJE
 dir
+diagram
 for
 floating
 from
@@ -562,6 +571,7 @@ fsn
 fV
 fP
 following
+flowchart
 the
 their
 to
@@ -649,6 +659,7 @@ titles
 too
 type
 these
+transfer
 MIPS
 Management
 MS
@@ -734,6 +745,7 @@ MHw
 MXY
 MKA
 Mutable
+MIS
 architecture
 all
 active
@@ -935,6 +947,7 @@ car
 company
 capacity
 copy
+communication
 elements
 each
 easily
@@ -1018,6 +1031,7 @@ ex
 eQZ
 engine
 etc
+explanation
 required
 relational
 registers
@@ -1166,6 +1180,7 @@ bLs
 bN
 bj
 bMn
+board
 instruction
 is
 in
@@ -1420,6 +1435,7 @@ IbV
 IH
 IDATr
 IEND
+Interfacing
 References
 Regular
 RDBMS
@@ -1684,6 +1700,7 @@ nr
 nXy
 nMx
 not
+networking
 Floating
 FW
 FFG
@@ -1893,6 +1910,7 @@ properties
 production
 pair
 person
+plugin
 or
 of
 organized
@@ -2433,6 +2451,7 @@ qn
 qIV
 qCR
 qaq
+questions
 ORACLE
 Operating
 OBSIDIAN
@@ -2662,6 +2681,7 @@ kWt
 kLM
 kgG
 kD
+kanban
 Varsity
 VAULT
 VH
@@ -2942,6 +2962,8 @@ WF
 Wtb
 WHF
 Wr
+Web
+Why
 various
 value
 vbzf
@@ -3785,6 +3807,8 @@ LGg
 LB
 LTkE
 LHI
+Lesson
+Leasson
 Jx
 JFH
 Jw

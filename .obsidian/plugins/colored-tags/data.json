@@ -18,7 +18,8 @@
     "addressingmode": 6,
     "proc80886": 7,
     "note": 8,
-    "Objects": 9
+    "Objects": 9,
+    "kanban": 10
   },
   "_version": 3
 }
