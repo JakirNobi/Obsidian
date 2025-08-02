@@ -279,6 +279,7 @@ StYZ
 SRU
 SCU
 Sd
+Sampling
 Complete
 Control
 Codd
@@ -487,6 +488,7 @@ sDQ
 ss
 sss
 sjZ
+steps
 datapath
 different
 decimal
@@ -593,6 +595,8 @@ dYF
 dYQ
 dCo
 dC
+digital
+digitize
 for
 floating
 from
@@ -809,6 +813,9 @@ tD
 tWwuMg
 tUC
 tMO
+tag
+technique
+three
 MIPS
 Management
 MS
@@ -1023,6 +1030,7 @@ aYm
 aIg
 aYV
 afz
+analog
 combines
 classes
 can
@@ -1161,6 +1169,9 @@ cGq
 cuuu
 cqj
 ctut
+common
+convert
+consists
 elements
 each
 easily
@@ -2311,6 +2322,7 @@ pACV
 pr
 pD
 pL
+pcm
 or
 of
 organized

@@ -11,22 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "8-Kanban/Final 3-2 Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "6-Zettlekasten/Sampling.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Final 3-2 Kanban"
+              "icon": "lucide-file",
+              "title": "Sampling"
             }
           }
         ]
@@ -100,12 +92,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "6-Zettlekasten/Sampling.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Sampling"
             }
           }
         ]
@@ -162,11 +155,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "6-Zettlekasten/Sampling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Sampling"
             }
           },
           {
@@ -232,10 +226,16 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "1e4b401d20068452",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "7-Resources/Pasted image 20250102145140.png",
+    "7-Resources/Pasted image 20250802203523.png",
+    "6-Zettlekasten/PCM.md",
+    "6-Zettlekasten/Sampling.md",
+    "2-Source Materials/Data-Communications.md",
+    "5-Templates/Note template.md",
     "8-Kanban/Final 3-2 Kanban.md",
+    "3-Tags/Multiplication in Computer.md",
+    "7-Resources/Pasted image 20250102145140.png",
     "1-Organized View/Active notes.md",
     "8-Kanban/Data Link Layer.md",
     "8-Kanban/Lesson 6.md",
@@ -257,11 +257,6 @@
     "4-Indexes/Completed.md",
     "6-Zettlekasten/Addressing Mode.md",
     "5-Templates/Course template.md",
-    "5-Templates/Note template.md",
-    "5-Templates/Code Template.md",
-    "4-Indexes/Varsity MOC.md",
-    "2-Source Materials/Microprocessor.md",
-    "2-Source Materials/Software Engineering.md",
     "7-Resources/WhatsApp Image 2025-07-30 at 9.27.48 PM.jpeg",
     "7-Resources/WhatsApp Image 2025-07-30 at 9.18.41 PM.png",
     "7-Resources/WhatsApp Image 2025-07-30 at 8.53.22 PM.jpeg",

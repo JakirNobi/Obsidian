@@ -19,7 +19,10 @@
     "proc80886": 7,
     "note": 8,
     "Objects": 9,
-    "kanban": 10
+    "kanban": 10,
+    "dc": 11,
+    "pcm": 12,
+    "analog-to-digital": 13
   },
   "_version": 3
 }
