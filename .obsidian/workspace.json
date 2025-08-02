@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e44e9d1fd0c2fd08",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "23fb3bed859552a4",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -83,7 +83,7 @@
             }
           },
           {
-            "id": "c65e336fc3d46e5f",
+            "id": "a92b68028d7ef963",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -92,6 +92,20 @@
               "pinned": true,
               "icon": "eye",
               "title": "Zen"
+            }
+          },
+          {
+            "id": "48942d4de6712969",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           }
         ]
@@ -148,12 +162,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "8-Kanban/Final 3-2 Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Final 3-2 Kanban"
+              "title": "Outgoing links"
             }
           },
           {
@@ -172,21 +185,17 @@
             }
           },
           {
-            "id": "48942d4de6712969",
+            "id": "c06fef411de8f0fb",
             "type": "leaf",
             "state": {
-              "type": "outline",
-              "state": {
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline"
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "148c78387a96a443",
@@ -210,6 +219,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "github-sync:Sync with Remote": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
@@ -218,20 +228,21 @@
       "command-palette:Open command palette": false,
       "graph:Open graph view": false,
       "homepage:Open homepage": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "23fb3bed859552a4",
+  "active": "1e4b401d20068452",
   "lastOpenFiles": [
+    "7-Resources/Pasted image 20250102145140.png",
+    "8-Kanban/Final 3-2 Kanban.md",
+    "1-Organized View/Active notes.md",
     "8-Kanban/Data Link Layer.md",
     "8-Kanban/Lesson 6.md",
     "6-Zettlekasten/Js Objects.md",
     "8-Kanban/Lesson 7.md",
     "8-Kanban/Lesson 5.md",
     "6-Zettlekasten/The Processor->Datapath and Control.md",
-    "8-Kanban/Final 3-2 Kanban.md",
     "vault.png",
     "README.md",
     "8-Kanban",
@@ -239,7 +250,6 @@
     "8-Kanban/Transport Layer.md",
     "2-Source Materials/Networking.md",
     "6-Zettlekasten/pastde.md",
-    "1-Organized View/Active notes.md",
     "8-Kanban/Lesson 3-4.md",
     "5-Templates/Kanban Template.md",
     "4-Indexes/All-Js-notes.md",
@@ -252,7 +262,6 @@
     "4-Indexes/Varsity MOC.md",
     "2-Source Materials/Microprocessor.md",
     "2-Source Materials/Software Engineering.md",
-    "2-Source Materials/Operating systems.md",
     "7-Resources/WhatsApp Image 2025-07-30 at 9.27.48 PM.jpeg",
     "7-Resources/WhatsApp Image 2025-07-30 at 9.18.41 PM.png",
     "7-Resources/WhatsApp Image 2025-07-30 at 8.53.22 PM.jpeg",

@@ -4,7 +4,7 @@ kanban-plugin: board
 
 ---
 
-## data communication<br>@{2025-08-11}
+## data communication @{2025-08-11}
 
 - [ ] PCM,DM,Data transmission
 - [ ] Analog to Analog Conversion
