@@ -1,11 +1,11 @@
 {
-  "cssTheme": "Obsidianite",
+  "cssTheme": "AnuPpuccin",
   "enabledCssSnippets": [
     "CyanVoxel's General Tweaks",
     "Notebook Backgrounds"
   ],
   "accentColor": "",
-  "theme": "obsidian",
+  "theme": "system",
   "interfaceFontFamily": "Arial",
   "textFontFamily": "Arial",
   "monospaceFontFamily": "Arial"

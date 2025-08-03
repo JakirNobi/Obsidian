@@ -4,6 +4,7 @@ Time: 20:24
 cssclasses:
   - center-titles
   - center-images
+  - page-manila
 ---
 #note #dc #analog-to-digital #pcm 
 
