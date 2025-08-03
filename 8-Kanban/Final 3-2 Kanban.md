@@ -6,7 +6,7 @@ kanban-plugin: board
 
 ## data communication @{2025-08-11}
 
-- [ ] PCM,DM,Data transmission
+- [ ] [[PCM]],DM,Data transmission
 - [ ] Analog to Analog Conversion
 - [ ] FDM,TDM,WDM spread spectrum(Dsss,FHsss)
 - [ ] Transmission medium(coxial,twisted pair cable,optical fiber,radio,microwave,propagation mode)

@@ -9,7 +9,7 @@ cssclasses:
 
 Status:[[Completed]]
 
-Tags:[[Data-Communications]],[[PCM]]
+Tags:[[Data-Communications]],[[PCM]].[[Quantization]],[[Binary encoding]] 
 
 # Sampling
 
@@ -32,6 +32,9 @@ Tags:[[Data-Communications]],[[PCM]]
 ## Three different sampling methods
 
 ![[Pasted image 20250802203523.png]]
+
+# Notes
+According to the Nyquist theorem, the sampling rate must be at least 2 times the highest frequency contained in the signal.
 
 # References
 [Data communications and networking I Behrouz A Forouzan](https://dpvipracollege.in/wp-content/uploads/2023/01/Data-Communications-and-Networking-By-Behrouz-A.Forouzan.pdf) 
