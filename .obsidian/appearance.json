@@ -2,10 +2,11 @@
   "cssTheme": "AnuPpuccin",
   "enabledCssSnippets": [
     "CyanVoxel's General Tweaks",
-    "Notebook Backgrounds"
+    "Notebook Backgrounds",
+    "css_1"
   ],
   "accentColor": "",
-  "theme": "system",
+  "theme": "obsidian",
   "interfaceFontFamily": "Arial",
   "textFontFamily": "Arial",
   "monospaceFontFamily": "Arial"

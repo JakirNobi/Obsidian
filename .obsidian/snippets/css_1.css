@@ -1,0 +1,10 @@
+/* Ensure settings menu text is visible on highlight */
+.setting-item.mod-active,
+.setting-item.mod-active * {
+  color: var(--text-normal) !important;
+}
+
+/* Optional: stronger background for selection */
+.setting-item.mod-active {
+  background-color: var(--ctp-surface2, #3c2e55) !important;
+}

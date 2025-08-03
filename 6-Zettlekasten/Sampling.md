@@ -8,7 +8,7 @@ cssclasses:
 ---
 #note #dc #analog-to-digital #pcm 
 
-Status:[[Completed]]
+Status:[[Active]]
 
 Tags:[[Data-Communications]],[[PCM]].[[Quantization]],[[Binary encoding]] 
 
