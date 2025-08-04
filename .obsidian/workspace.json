@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "237ec95191478338",
+        "id": "3d87326f51b7666e",
         "type": "tabs",
         "children": [
           {
-            "id": "16a757c9097c6b1e",
+            "id": "c4709b74419aa02d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -90,7 +90,7 @@
             }
           },
           {
-            "id": "21c5d83bceafcaf1",
+            "id": "0714ef6cf07a4763",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -226,13 +226,16 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "16a757c9097c6b1e",
+  "active": "c4709b74419aa02d",
   "lastOpenFiles": [
+    "6-Zettlekasten/Js Objects.md",
+    "6-Zettlekasten/Js Function.md",
+    "6-Zettlekasten/JavaScript.md",
+    "1-Organized View/Active notes.md",
     "6-Zettlekasten/Quantization.md",
     "6-Zettlekasten/PCM.md",
     "6-Zettlekasten/Sampling.md",
     "3-Tags/Active.md",
-    "1-Organized View/Active notes.md",
     "README.md",
     "4-Indexes/Completed.md",
     "8-Kanban/Final 3-2 Kanban.md",
@@ -247,7 +250,6 @@
     "7-Resources/Pasted image 20250102145140.png",
     "8-Kanban/Data Link Layer.md",
     "8-Kanban/Lesson 6.md",
-    "6-Zettlekasten/Js Objects.md",
     "8-Kanban/Lesson 7.md",
     "8-Kanban/Lesson 5.md",
     "6-Zettlekasten/The Processor->Datapath and Control.md",
@@ -256,8 +258,6 @@
     "8-Kanban/Network Layer.md",
     "8-Kanban/Transport Layer.md",
     "2-Source Materials/Networking.md",
-    "6-Zettlekasten/pastde.md",
-    "8-Kanban/Lesson 3-4.md",
     "7-Resources/WhatsApp Image 2025-07-30 at 9.27.48 PM.jpeg",
     "7-Resources/WhatsApp Image 2025-07-30 at 9.18.41 PM.png",
     "7-Resources/WhatsApp Image 2025-07-30 at 8.53.22 PM.jpeg",
