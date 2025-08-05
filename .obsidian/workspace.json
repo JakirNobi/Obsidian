@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6-Zettlekasten/Addressing Mode.md",
+                "file": "6-Zettlekasten/Addressing Mode Types.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Addressing Mode"
+              "title": "Addressing Mode Types"
             }
           }
         ]
@@ -228,12 +228,13 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "6-Zettlekasten/Addressing Mode Assignment.md",
-    "6-Zettlekasten/Addressing Mode.md",
     "8-Kanban/Lesson 3-4.md",
+    "1-Organized View/Active notes.md",
+    "6-Zettlekasten/Addressing Mode Types.md",
+    "6-Zettlekasten/Addressing Mode.md",
+    "6-Zettlekasten/Addressing Mode Assignment.md",
     "8-Kanban/Final 3-2 Kanban.md",
     "6-Zettlekasten/Quantization.md",
-    "1-Organized View/Active notes.md",
     "6-Zettlekasten/Js Objects.md",
     "6-Zettlekasten/Js Function.md",
     "6-Zettlekasten/JavaScript.md",
@@ -257,7 +258,6 @@
     "6-Zettlekasten/The Processor->Datapath and Control.md",
     "vault.png",
     "8-Kanban",
-    "8-Kanban/Network Layer.md",
     "7-Resources/WhatsApp Image 2025-07-30 at 9.27.48 PM.jpeg",
     "7-Resources/WhatsApp Image 2025-07-30 at 9.18.41 PM.png",
     "7-Resources/WhatsApp Image 2025-07-30 at 8.53.22 PM.jpeg",

@@ -6,7 +6,7 @@ Time: "03:54"
 
 Status:[[Active]]
 
-Tags:[[Microprocessor]],[[Addressing Mode Assignment]]
+Tags:[[Microprocessor]],[[Addressing Mode Assignment]],[[Lesson 3-4]]
 
 # Addressing Mode
 

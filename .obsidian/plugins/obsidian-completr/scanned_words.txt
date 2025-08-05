@@ -94,6 +94,7 @@ Drm
 DAQ
 DGG
 DbQ
+Displacement
 Time
 Tags
 The
@@ -197,6 +198,7 @@ TdYA
 TFXl
 There
 Three
+TERMS
 Status
 System
 SQL
@@ -282,6 +284,7 @@ SRU
 SCU
 Sd
 Sampling
+Starting
 Complete
 Control
 Codd
@@ -385,6 +388,8 @@ CCY
 CCCA
 Cr
 CSS
+Contents
+Content
 simple
 signal
 stored
@@ -500,6 +505,8 @@ sample
 single
 specify
 stop
+style
+segment
 datapath
 different
 decimal
@@ -610,6 +617,7 @@ digital
 digitize
 developers
 define
+determined
 for
 floating
 from
@@ -719,6 +727,7 @@ ffg
 fqqq
 frequency
 function
+final
 the
 their
 to
@@ -1194,6 +1203,7 @@ contained
 change
 calculate
 content
+combination
 elements
 each
 easily
@@ -1306,6 +1316,7 @@ eur
 every
 encoding
 executing
+exam
 required
 relational
 registers
@@ -1495,6 +1506,8 @@ but
 both
 behavior
 blue
+background
+bit
 instruction
 is
 in
@@ -1610,6 +1623,7 @@ impulse
 instant
 integer
 inside
+immediate
 Add
 All
 Access
@@ -1703,6 +1717,7 @@ ATJ
 AUK
 At
 According
+ABF
 Instruction
 It
 IBM
@@ -1810,6 +1825,7 @@ ITM
 IKrh
 IVx
 Ideal
+IMPORTANT
 References
 Regular
 RDBMS
@@ -2030,6 +2046,7 @@ must
 manila
 manipulate
 maths
+mark
 notes
 number
 negative
@@ -2659,6 +2676,7 @@ gff
 gcYvJ
 gC
 gQ
+given
 Expressions
 Engineering
 Explain
@@ -2756,6 +2774,7 @@ EonY
 ECtuu
 EaJ
 ED
+Effective
 level
 like
 located
@@ -3099,6 +3118,7 @@ OxBz
 OCC
 Odd
 OWW
+Offset
 has
 hn
 hfe
@@ -3444,6 +3464,7 @@ NHS
 NHBB
 Natural
 Nyquist
+Not
 Block
 BX
 BP
@@ -3533,6 +3554,7 @@ BDp
 BKK
 Bi
 Binary
+Base
 What
 WB
 WO
