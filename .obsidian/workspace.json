@@ -11,14 +11,22 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "1-Organized View/Active notes.md",
-                "mode": "source",
-                "source": false
+                "file": "8-Kanban/Final 3-2 Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "lucide-file",
-              "title": "Active notes"
+              "icon": "lucide-trello",
+              "title": "Final 3-2 Kanban"
             }
           }
         ]
@@ -226,8 +234,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "1e4b401d20068452",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "8-Kanban/Lesson 3-4.md",
+    "8-Kanban/Final 3-2 Kanban.md",
     "1-Organized View/Active notes.md",
     "6-Zettlekasten/Js Objects.md",
     "6-Zettlekasten/Js Function.md",
@@ -238,7 +248,6 @@
     "3-Tags/Active.md",
     "README.md",
     "4-Indexes/Completed.md",
-    "8-Kanban/Final 3-2 Kanban.md",
     "6-Zettlekasten/Binary encoding.md",
     "6-Zettlekasten/Regular Expressions.md",
     "6-Zettlekasten/Addressing Mode.md",
@@ -257,7 +266,6 @@
     "8-Kanban",
     "8-Kanban/Network Layer.md",
     "8-Kanban/Transport Layer.md",
-    "2-Source Materials/Networking.md",
     "7-Resources/WhatsApp Image 2025-07-30 at 9.27.48 PM.jpeg",
     "7-Resources/WhatsApp Image 2025-07-30 at 9.18.41 PM.png",
     "7-Resources/WhatsApp Image 2025-07-30 at 8.53.22 PM.jpeg",
