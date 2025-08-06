@@ -728,6 +728,7 @@ fqqq
 frequency
 function
 final
+five
 the
 their
 to
@@ -1204,6 +1205,7 @@ change
 calculate
 content
 combination
+classified
 elements
 each
 easily
@@ -1508,6 +1510,7 @@ behavior
 blue
 background
 bit
+basic
 instruction
 is
 in
@@ -1624,6 +1627,7 @@ instant
 integer
 inside
 immediate
+into
 Add
 All
 Access
@@ -1826,6 +1830,7 @@ IKrh
 IVx
 Ideal
 IMPORTANT
+Implied
 References
 Regular
 RDBMS
@@ -2402,6 +2407,7 @@ pages
 program
 pen
 puts
+ports
 or
 of
 organized
@@ -2500,6 +2506,7 @@ oQV
 owI
 outcome
 one
+other
 whole
 with
 way
@@ -2677,6 +2684,7 @@ gcYvJ
 gC
 gQ
 given
+groups
 Expressions
 Engineering
 Explain
