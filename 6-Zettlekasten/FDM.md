@@ -9,7 +9,7 @@ Status:[[Active]]
 Tags:[[Data-Communications]]
 
 # FDM
-FDM is an analog multiplexing technique that combines analog signals.
+F1DM is an analog multiplexing technique that combines analog signals.
 ## FDM process modulation
 
 ![[Pasted image 20250809024107.png]]

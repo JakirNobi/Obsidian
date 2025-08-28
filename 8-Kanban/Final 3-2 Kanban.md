@@ -8,7 +8,7 @@ kanban-plugin: board
 
 - [ ] [[PCM]],DM,Data transmission
 - [ ] Analog to Analog Conversion
-- [ ] FDM,TDM,WDM spread spectrum(Dsss,FHsss)
+- [ ] [[FDM]],TDM,WDM spread spectrum(Dsss,FHsss)
 - [ ] Transmission medium(coxial,twisted pair cable,optical fiber,radio,microwave,propagation mode)
 - [ ] Error detection & correction
 - [ ] GSM,Frequency reuse,Handoff

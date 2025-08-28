@@ -22,7 +22,10 @@
     "kanban": 10,
     "dc": 11,
     "pcm": 12,
-    "analog-to-digital": 13
+    "analog-to-digital": 13,
+    "intern": 14,
+    "day02": 15,
+    "html": 16
   },
   "_version": 3
 }

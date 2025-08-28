@@ -285,6 +285,8 @@ SCU
 Sd
 Sampling
 Starting
+SRTF
+SJF
 Complete
 Control
 Codd
@@ -507,6 +509,7 @@ specify
 stop
 style
 segment
+signals
 datapath
 different
 decimal
@@ -618,6 +621,8 @@ digitize
 developers
 define
 determined
+demodulation
+day
 for
 floating
 from
@@ -1059,6 +1064,7 @@ aYV
 afz
 analog
 amplitude
+algorithm
 combines
 classes
 can
@@ -1629,6 +1635,7 @@ integer
 inside
 immediate
 into
+intern
 Add
 All
 Access
@@ -2054,6 +2061,7 @@ manipulate
 maths
 mark
 mailto
+multiplexing
 notes
 number
 negative
@@ -2410,6 +2418,7 @@ program
 pen
 puts
 ports
+preemptive
 or
 of
 organized
