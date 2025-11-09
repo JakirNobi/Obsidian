@@ -20,5 +20,6 @@
   "obsidian-kanban",
   "obsidian-style-settings",
   "highlightr-plugin",
-  "obsidian-emoji-toolbar"
+  "obsidian-emoji-toolbar",
+  "obsidian-local-rest-api"
 ]
